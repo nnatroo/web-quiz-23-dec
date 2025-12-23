@@ -12,5 +12,5 @@ Thumbs.db
 
 # IDE
 .idea/
-*.iml!/src/textProcessor.solution.js
-!/test/run-solution-tests.js
+/test/run-solution-tests.js
+/src/textProcessor.solution.js
